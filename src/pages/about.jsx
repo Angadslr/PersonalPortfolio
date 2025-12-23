@@ -1,5 +1,4 @@
 import './about.css'
-import Sphere from './sphere.jsx';
 function About() {
   return (
     <>

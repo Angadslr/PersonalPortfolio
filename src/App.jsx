@@ -12,7 +12,7 @@ function App() {
     <>
 
 
-    <BrowserRouter>
+    <BrowserRouter basename="/PersonalPortfolio">
       <div className='navContainer'>
       <nav className='navBar'>
         <Link to="/">Home</Link> 

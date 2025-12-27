@@ -18,7 +18,7 @@ function Index() {
 
     <body style={{  backgroundColor: '#303030ff',
   minHeight: '100vh', color: 'white', height: '100vh', display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'self-start', paddingLeft: '80px'}}>
-      <h1 className='Hey'>Hey.</h1>
+      <h1 className='Hey'>Hey don.</h1>
       <h1 className='myName'>I'm Angad</h1>
       <br />
       <h2 className='aDeveloper'>Computer Science & Business, Oregon State University 🦫</h2>
